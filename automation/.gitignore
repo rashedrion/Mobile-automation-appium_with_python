@@ -1,0 +1,12 @@
+# OS files
+.DS_Store
+Thumbs.db
+# Python cache files
+__pycache__/
+*.pyc
+
+*.apk
+.vscode/
+.idea/
+.venv/
+env/
